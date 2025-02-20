@@ -41,7 +41,7 @@
 <a href="https://ko-fi.com/aqueleharu" target="_blank"><img alt="Haru-Kofi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 <a href="#"><img alt="Haru-OS" src="https://img.shields.io/badge/Windows 11-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="#"><img alt="Haru-GPU" src="https://img.shields.io/badge/NVIDIA-GeForce RTX 4070 Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
-<a href="#"><img alt="Haru-CPU" src="https://img.shields.io/badge/AMD-Ryzen_7_7700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
+<a href="#"><img alt="Haru-CPU" src="https://img.shields.io/badge/AMD-Ryzen_7_7800X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
     
 ![Snake animation](https://github.com/AqueleHaru/AqueleHaru/blob/output/github-contribution-grid-snake.svg)
 </div>
