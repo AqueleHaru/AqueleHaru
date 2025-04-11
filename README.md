@@ -1,7 +1,7 @@
 <h1 align="center">Yo! I'm Haru!</h1>
 
 - 🌱 I’m currently learning **TypeScript**
-- 📖 I’m currently working on [Tunefy](https://github.com/tunefy) as **DEV** and **CEO**
+- 📖 I’m currently working on some projects!
 
 <div align="center">
     <a href="https://github.com/AqueleHaru">
