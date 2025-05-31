@@ -1,4 +1,4 @@
-<h1 align="center">Yo! I'm Haru!</h1>
+<h1 align="center">Hello!</h1>
 
 - 🌱 I’m currently learning **TypeScript**
 - 📖 I’m currently working on some projects!
