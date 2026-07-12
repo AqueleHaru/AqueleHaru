@@ -69,18 +69,10 @@ Building cool things with TypeScript, Node.js and modern web technologies.
 # 🌐 Links
 
 <p align="center">
-  <a href="https://wavez.fm">
-    <img src="https://img.shields.io/badge/Wavez.fm-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/@aqueleharu">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://www.twitch.tv/aqueleharu">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a>
-  <a href="https://ko-fi.com/aqueleharu">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
-  </a>
+  <a href="https://wavez.fm"><img src="https://img.shields.io/badge/Wavez.fm-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.youtube.com/@aqueleharu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.twitch.tv/aqueleharu"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="https://ko-fi.com/aqueleharu"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 </p>
 
 ---
